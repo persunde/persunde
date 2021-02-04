@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-	- Find the OSS project you use that are looking for funding:
+	- Find the OSS projects you use that are looking for funding
 		- https://sunde.dev/oss-looking-for-funding/
 		- https://github.com/persunde/oss-looking-for-funding 
-	- See personal projects developed by /wdg/ users
+	- A website to showcase personal projects developed by /wdg/ users
 		- https://wdg.one
 		- https://github.com/persunde/wdg-projects
 	- Find english speaking jobs in Nordic countries
